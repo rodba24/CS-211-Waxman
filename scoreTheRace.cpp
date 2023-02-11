@@ -57,7 +57,7 @@ for (int i = 0; i < 26; i++) {
   for (int i = 0; i < 26; i++) {
 if (teams[i] > 0) {
   avg = scores[i] / teams[i];          
-  cout<< (char)(i + 65) <<"                  "           <<avg<<endl;
+  cout<< (char)(i + 65) <<"                     " <<avg<<endl;
  
   }
     }
