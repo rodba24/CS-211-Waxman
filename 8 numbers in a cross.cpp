@@ -18,7 +18,7 @@ bool ok(int q[], int c, int a[][5]){
 }
 
 void print (int q[], int solution){
-  cout<< "solution # " << solution <<endl;
+  cout<< "solution # " << solution <<endl;                               //adding 1 to every cell because the answers will be from {0-7}
   cout<< "  " << q[0]+1 <<" " << q[1]+1 <<" "<<endl 
  << q[2]+1<< " "<< q[3]+1<< " "<< q[4] +1<< " "<< q[5] +1<< " "<<endl
    <<"  " << q[6] +1 << " " << q[7] +1 << " " <<endl; 
