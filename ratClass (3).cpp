@@ -1,4 +1,4 @@
-// Rat = rational numbers
+// Rat = rational numbers 
 //performs rational number arithmetic 
 
 #include <iostream>
