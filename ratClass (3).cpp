@@ -1,3 +1,6 @@
+// Rat = rational numbers
+//performs rational number arithmetic 
+
 #include <iostream>
 using namespace std;
 
